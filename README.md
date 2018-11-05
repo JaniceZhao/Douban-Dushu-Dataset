@@ -34,6 +34,6 @@ In addition to the comments, users can mark the books from one star to 5 stars a
 
 # Date Download
 
-If you want to acquire the corpus. Please fill the [application form](https://github.com/JaniceZhao/Douban-Dushu-Dataset/blob/master/application%20form.pdf) and send to Jianyu Zhao: zhaojianyuqd@163.com
+If you want to acquire the corpus. Please fill the [application form](https://github.com/JaniceZhao/Douban-Dushu-Dataset/blob/master/application%20form.pdf) and send to Jianyu Zhao: zhaojianyu@gsqtec.com
 
 Due to the large size of the corpus, we divide the whole dataset to 4 CSV files.
