@@ -34,6 +34,14 @@ In addition to the comments, users can mark the books from one star to 5 stars a
 
 # Date Download
 
-If you want to acquire the corpus. Please fill the [application form](https://github.com/JaniceZhao/Douban-Dushu-Dataset/blob/master/application%20form.pdf) and send to Jianyu Zhao: zhaojianyu@gsqtec.com
+You had to agree to the terms and conditions above before you download and use this corpus.
 
 Due to the large size of the corpus, we divide the whole dataset to 4 CSV files.
+
+1. Google Drive: [link](https://drive.google.com/open?id=1Me0aswzCCMtJt3clWiA39J5i-tbREgze)
+2. Baidu Cloud: [link](https://pan.baidu.com/s/1MamzaebgU2fLJJfvYL-acQ) Extraction Code: vpik
+
+
+# License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
